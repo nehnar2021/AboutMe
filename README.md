@@ -10,7 +10,7 @@ I am a strong believer of <i> "Sky is the limit!"</i>
 ![GitHub Logo](python.ico) ![GitHub Logo](artificialintelligence.ico) ![GitHub Logo](sql.ico) ![GitHub Logo](dotnet.ico)
 
 # Organisations worked for
-![GitHub Logo](Ameri100.jpg) ![GitHub Logo](MMT1.jpg) ![GitHub Logo](DRDO.jpg) ![GitHub Logo](LTI.jpg)
+![GitHub Logo](Ameri100.JPG) ![GitHub Logo](MMT1.JPG) ![GitHub Logo](DRDO.JPG) ![GitHub Logo](LTI.JPG)
 
 
 
