@@ -7,7 +7,7 @@ Hi! I am <b> Neha Narang</b>, a software developer. I am a <b>Machine Learning a
 I am a strong believer of <i> "Sky is the limit!"</i>
 
 # Technical Competencies
-![GitHub Logo](AI.ico) ![GitHub Logo](Python.ico) ![GitHub Logo](SQL.ico) ![GitHub Logo](DotNet.ico) ![GitHub Logo](CSharp.ico) 
+![GitHub Logo](AI.ico) ![GitHub Logo](Python.ico) ![GitHub Logo](SQL.ico) ![GitHub Logo](UiPath.jpg) ![GitHub Logo](DotNet.ico) ![GitHub Logo](CSharp.ico) 
 
 # Organisations worked for
 ![GitHub Logo](Ameri100.JPG) ![GitHub Logo](MMT1.JPG) ![GitHub Logo](DRDO.JPG) ![GitHub Logo](LTI.JPG)
