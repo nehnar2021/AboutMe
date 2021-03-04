@@ -15,5 +15,5 @@ I am a strong believer of <i> "Sky is the limit!"</i>
 
 
 E-mail: nehanarang83@gmail.com  
-![GitHub Logo]()[CV.ico (Curriculum Vitae)](https://github.com/nehnar2021/nehnar2021/blob/main/NehaNarang.pdf)
+[CV.ico (Curriculum Vitae)](https://github.com/nehnar2021/nehnar2021/blob/main/NehaNarang.pdf)
 
