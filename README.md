@@ -1,7 +1,7 @@
 ## About Me
 [![GitHub Logo](linkedin.ico)](https://www.linkedin.com/in/nehanarang83/) [![GitHub Logo](instagram.ico)](https://www.instagram.com/neha.narang83/) [![GitHub_Logo](email.ico)](mailto:nehanarang83@gmail.com) [![GitHub Logo](CV.ico)](https://github.com/nehnar2021/nehnar2021/blob/main/NehaNarang.pdf)
 
-Hi! I am <b> Neha Narang</b>, a software developer. I am a <b>RPA (Robotic Process Automation), Machine Learning and NLP (Natural Language Processing)</b> enthusiast, exploring the possibilities of AI (Artificial Intelligence) implementation in different businesses. Previously, I have worked in RPA, .Net framework, C# and Python. 
+Hi! I am <b> Neha Narang</b>, a software developer. I have worked in RPA, .Net framework, C#, Python, and Machine Learning . 
 
 I am a strong believer in <i> "Sky is the limit!"</i>
 
