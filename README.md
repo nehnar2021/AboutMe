@@ -11,7 +11,7 @@ I am a strong believer in <i> "Sky is the limit!"</i>
 
 
 ## Organisations worked for
-[GitHub_Logo](FDMGroup.JPG)![GitHub_Logo](TD.jpg)![GitHub Logo](iNeuron.JPG) ![GitHub Logo](Ameri100.JPG) ![GitHub Logo](MMT1.JPG) ![GitHub Logo](DRDO.JPG) ![GitHub Logo](LTI.JPG)
+![GitHub Logo](FDMGroup.JPG) ![GitHub Logo](TD.JPG)[GitHub Logo](iNeuron.JPG) ![GitHub Logo](Ameri100.JPG) ![GitHub Logo](MMT1.JPG) ![GitHub Logo](DRDO.JPG) ![GitHub Logo](LTI.JPG)
 
 
 
